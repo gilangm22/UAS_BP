@@ -1,0 +1,6 @@
+# Membuat Fungsi
+def salam():
+      print (“Happy New Year”)
+ 
+## Pemanggilan Fungsi
+salam()
